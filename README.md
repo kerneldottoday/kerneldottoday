@@ -1,27 +1,47 @@
-# KERNEL — From Concept to Runtime
+```
+ _  _______ ____  _   _ _____ _
+| |/ / ____|  _ \| \ | | ____| |
+| ' /|  _| | |_) |  \| |  _| | |
+| . \| |___|  _ <| |\  | |___| |___
+|_|\_\_____|_| \_\_| \_|_____|_____|
 
-**Your gateway between idea and execution.**
+        from concept to runtime
+```
 
-Kernel designs and builds websites, platforms, internal tools, automation systems and interactive 3D environments, from architecture to launch. One technical partner: the person designing the system is the one building it with you.
+Kernel is a small technical studio. We design and build websites, platforms, internal tools, automations and realtime 3D, then we ship them ourselves. You talk to the person writing the code, never to an account manager.
 
-### What Kernel builds
-- 🎨 **Web design**: websites, product interfaces, UI/UX, landing pages, scalable design systems
-- ⚙️ **Full-stack development**: frontend, backend, APIs, databases, custom platforms
-- 🤖 **Automation & tools**: dashboards, internal tools, workflows, integrations, AI agents
-- 🧊 **Realtime & 3D**: Three.js, WebGL, Unreal Engine, interactive environments
+```
+// what we build
+```
 
-### Process
-`01 Concept` → `02 Build` → `03 Runtime` → `04 Support`
+Websites and product interfaces, made for the people who will use them every day. Custom platforms with their own APIs and databases. Dashboards, internal tools and workflows that connect your services, so nobody has to copy-paste between tabs anymore. AI agents plugged into real work. And interactive 3D on the web with Three.js and WebGL, sometimes Unreal when the project asks for it.
 
-### Open source
-- [**hail**](https://github.com/kerneldottoday/hail): talk to your AI agents (Hermes, OpenClaw, Claude Code, any CLI) locally or over SSH, from the terminal or as an MCP tool
-- [**sponza-atrium**](https://github.com/kerneldottoday/sponza-atrium): interactive 3D Sponza Atrium scene in Three.js
+```
+// process
 
-### Stack
-React · Next.js · TypeScript · Node · Python · Tailwind · GSAP · Three.js · Webflow · Framer · Supabase · Vercel
+  01 concept  -->  02 build  -->  03 runtime  -->  04 support
+```
 
----
+Most projects keep moving after launch. We stay on for the fixes, the upgrades and whatever new feature shows up next month.
 
-🌐 [kernel.today](https://www.kernel.today) · ✉️ [contact@kernel.today](mailto:contact@kernel.today) · 📸 [@kernel.studio](https://www.instagram.com/kernel.studio/)
+```
+// open source
+```
 
-*Working with teams worldwide. Available for new builds.*
+[hail](https://github.com/kerneldottoday/hail) lets you talk to your AI agents (Hermes, OpenClaw, Claude Code or any CLI) on your own machine or over SSH. Use it from a terminal, or plug it in as an MCP tool.
+
+[sponza-atrium](https://github.com/kerneldottoday/sponza-atrium) is the Sponza Atrium rebuilt as a Three.js scene you can explore in the browser.
+
+```
+// stack
+```
+
+React, Next.js, TypeScript, Node, Python, Tailwind, GSAP, Three.js, Webflow, Framer, Supabase, Vercel. If you already have a codebase, we work inside it.
+
+```
+// contact
+```
+
+[kernel.today](https://www.kernel.today) · [contact@kernel.today](mailto:contact@kernel.today) · [instagram @kernel.studio](https://www.instagram.com/kernel.studio/)
+
+Open for new builds, wherever you are.
