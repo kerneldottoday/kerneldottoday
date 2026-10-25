@@ -30,7 +30,6 @@ Most projects keep moving after launch. We stay on for the fixes, the upgrades a
 
 [hail](https://github.com/kerneldottoday/hail) lets you talk to your AI agents (Hermes, OpenClaw, Claude Code or any CLI) on your own machine or over SSH. Use it from a terminal, or plug it in as an MCP tool.
 
-[sponza-atrium](https://github.com/kerneldottoday/sponza-atrium) is the Sponza Atrium rebuilt as a Three.js scene you can explore in the browser.
 
 ```
 // stack
