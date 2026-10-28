@@ -29,7 +29,17 @@ Most projects keep moving after launch. We stay on for the fixes, the upgrades a
 // open source
 ```
 
-[hail](https://github.com/kerneldottoday/hail) lets you talk to your AI agents (Hermes, OpenClaw, Claude Code or any CLI) on your own machine or over SSH. Use it from a terminal, or plug it in as an MCP tool.
+We build our own tools first, then share the ones that hold up.
+
+**[hail](https://github.com/kerneldottoday/hail)** lets you talk to your AI agents (Hermes, OpenClaw, Claude Code or any CLI) on your own machine or over SSH. Ask one agent for advice without letting it touch anything, or let your agents message each other with a policy and a log. Use it from a terminal, or plug it in as an MCP tool.
+
+```
+uv tool install hail-agent
+```
+
+[![hail in 45 seconds](https://raw.githubusercontent.com/kerneldottoday/hail/main/docs/demo.gif)](https://github.com/kerneldottoday/hail)
+
+**tiroir** is a filing cabinet for your sticky notes, on your own server. Notes go into drawers by project, and your AI agents can drop notes in it too, so their reports land where you already look. Private beta for now.
 
 
 ```
