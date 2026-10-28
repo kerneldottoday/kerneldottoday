@@ -39,7 +39,13 @@ uv tool install hail-agent
 
 [![hail in 45 seconds](https://raw.githubusercontent.com/kerneldottoday/hail/main/docs/demo.gif)](https://github.com/kerneldottoday/hail)
 
-**tiroir** is a filing cabinet for your sticky notes, on your own server. Notes go into drawers by project, and your AI agents can drop notes in it too, so their reports land where you already look. Private beta for now.
+**tiroir** is a filing cabinet for your sticky notes, on your own server. One drawer per project, tabs inside each drawer, and behind each tab a free wall of notes you can zoom, pan and drag around. Your AI agents can drop notes in it too: any script that writes a Markdown file in a folder gets its note filed in the right drawer, and when an agent asks a question, your answer is written back for it. No SDK, no token, no database, just one JSON file you own.
+
+[![tiroir: open a drawer, pick a tab, work on the wall](assets/tiroir-demo.gif)](assets/tiroir-demo.gif)
+
+It also shares cabinets or single tabs through revocable links, keeps a 30-day trash, and installs on a phone's home screen. Private beta for now, the repo opens soon.
+
+hail and tiroir work well together: hail carries the questions between agents, tiroir is where their reports wait for you.
 
 
 ```
