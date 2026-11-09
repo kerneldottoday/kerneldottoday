@@ -31,10 +31,11 @@ Most projects keep moving after launch. We stay on for the fixes, the upgrades a
 
 We build our own tools first, then share the ones that hold up.
 
-**[hail](https://github.com/kerneldottoday/hail)** lets you talk to your AI agents (Hermes, OpenClaw, Claude Code or any CLI) on your own machine or over SSH. Ask one agent for advice without letting it touch anything, or let your agents message each other with a policy and a log. Use it from a terminal, or plug it in as an MCP tool.
+**[hail](https://github.com/kerneldottoday/hail)** lets you talk to your AI agents (Hermes, OpenClaw, Claude Code or any CLI) on your own machine or over SSH. Ask one agent for advice without letting it touch anything, or let your agents message each other with a policy and a log. Use it from a terminal, or plug it in as an MCP tool. Or open `hail tui`: one screen to read every thread, start a new one, search the log and see which agents are up.
 
 ```
 uv tool install hail-agent
+# with the keyboard screen (hail tui): uv tool install 'hail-agent[tui]'
 ```
 
 [![hail in 45 seconds](https://raw.githubusercontent.com/kerneldottoday/hail/main/docs/demo.gif)](https://github.com/kerneldottoday/hail)
